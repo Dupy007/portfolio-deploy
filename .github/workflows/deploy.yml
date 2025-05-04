@@ -32,9 +32,12 @@ jobs:
         working-directory: ./portfolio
 
       - name: Initialize Git in deployment folder
+        working-directory: portfolio/dist/portfolio
         run: |
           cd portfolio/dist/portfolio
           git init
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
