@@ -1,0 +1,754 @@
+{
+  "name": "JOSEPH FILS DUPERRIER",
+  "mail": "jfd.social@outlook.fr",
+  "title": "Full Stack Developer 🚀  | Ingénieur cyberSécurité 🔐",
+  "profile": "assets/profile.png",
+  "detail": [
+    "Étant passionné par le développement et les nouvelles technologies, j’évolue dans le domaine du développement logiciel en freelance ou en entreprise, ceci depuis plus de 8 ans. J’ai acquis une réelle expertise pour concevoir et développer des applications performantes et sécurisées avec 4 ans d’expérience en entreprise.",
+    " Je me suis par ailleurs plongé dans le machine learning depuis 2020 et ai exploré des modèles d’apprentissage automatique pour optimiser et automatiser différents processus. Cela me sert à enrichir mes projets d’éléments d’intelligence et de valeur ajoutée dans les applications que je suis amené à développer.",
+    " Au même moment, je me spécialise dans la cybersécurité et réseaux depuis 5 ans, ce qui me permet de mettre en pratique des solutions de sécurité, dès la conception des logiciels et à la sécurité de leurs infrastructures.",
+    " Cette combinaison de connaissance en développement, cybersécurité et machine learning, me raconte au travers des solutions sécurisées, performantes et innovantes que j’offre, répondre aux enjeux actuelles tant des entreprises que des utilisateurs. ",
+    " N’hésites pas à découvrir mes réalisations sur mon portfolio !"
+  ],
+  "skills": [
+    {
+      "id": "poo",
+      "title": "Programmation orientée objet (Java, C++, Python)",
+      "description": "La programmation orientée objet (POO) est une manière d’organiser le code en représentant les choses du monde réel (comme un client, une commande ou un produit) sous forme d’objets. Cela rend le programme plus facile à comprendre, à faire évoluer et à réutiliser. Chaque objet a ses données (état) et ses fonctions (comportement).",
+      "anecdote": "Lors de mes débuts, j’ai codé une application de gestion de bibliothèque universitaire en Java. J’ai compris l’intérêt de créer une classe 'Livre' avec ses propriétés et méthodes, ce qui m’a ouvert les yeux sur la puissance de la POO.",
+      "notation": "Maîtrise avancée. J’applique les principes de la POO (comme SOLID) dans des projets concrets, aussi bien en équipe qu’en solo, pour créer des applications robustes et évolutives.",
+      "context": "Projet universitaire de fin de semestre visant à créer une application de gestion pour la bibliothèque du campus.",
+      "challenges": "Gérer les relations entre les entités (livres, emprunteurs, réservations) sans créer de dépendances circulaires et éviter les duplications de code.",
+      "solutions": "Utilisation des principes SOLID et des design patterns comme Singleton (gestion des connexions), DAO (accès aux données), et MVC (séparation des responsabilités).",
+      "outcome": "L'application a été notée 18/20. Le code a été réutilisé par d'autres étudiants l'année suivante grâce à sa modularité. J’ai aussi appris à mieux structurer mon code dès le départ.",
+      "media": [
+        "uml_diagram_bibliotheque.png",
+        "interface_java_livre.png"
+      ],
+      "type": "tech",
+      "projects": [
+        "ollamachatui",
+        "mpmt",
+        "dolibarr"
+      ]
+    },
+    {
+      "id": "teamwork",
+      "title": "Travail en équipe",
+      "description": "Collaborer efficacement avec des collègues pour atteindre des objectifs communs, partager les responsabilités et valoriser les compétences de chacun.",
+      "anecdote": "Lors d’un projet en groupe pour développer une plateforme web, j’ai spontanément pris le rôle de coordinateur. J’ai veillé à ce que chacun soit aligné sur les objectifs et que la communication soit fluide.",
+      "notation": "Excellente capacité à travailler en équipe, même dans des contextes tendus ou multidisciplinaires.",
+      "context": "Projet académique avec des profils variés (développeurs, designers, chefs de projet).",
+      "challenges": "Gérer les conflits de points de vue et maintenir une cohésion dans l’équipe malgré des délais serrés.",
+      "solutions": "Mise en place de réunions régulières, écoute active, médiation et répartition équitable des tâches.",
+      "outcome": "Le projet a été livré en avance avec une forte cohésion d’équipe. L'expérience a renforcé ma capacité à travailler en intelligence collective.",
+      "media": [
+        "brainstorming_equipe.png",
+        "tableau_taches_trello.png"
+      ],
+      "type": "hum"
+    },
+    {
+      "id": "db",
+      "title": "Bases de données (MySQL, PostgreSQL)",
+      "description": "Stocker, organiser et interroger des données relationnelles avec le langage SQL.",
+      "anecdote": "J’ai conçu un schéma relationnel complet pour un système de gestion d’étudiants avec vues et procédures.",
+      "notation": "Très bonne maîtrise. Requêtes avancées, modélisation, transactions.",
+      "context": "Création d'une application de gestion d’étudiants pour un projet universitaire.",
+      "challenges": "Assurer l'intégrité des données et optimiser les requêtes pour gérer un grand volume d'étudiants.",
+      "solutions": "Utilisation des jointures complexes, des index et des vues pour améliorer les performances des requêtes.",
+      "outcome": "Le projet a été adopté par d'autres étudiants comme référence. Les performances ont été multipliées par deux grâce à l'optimisation des requêtes.",
+      "media": [
+        "schema_relationnel_etudiant.png",
+        "requete_mysql_optimisee.png"
+      ],
+      "type": "tech",
+      "projects": [
+        "dolibarr"
+      ]
+    },
+    {
+      "id": "stress",
+      "title": "Gestion du stress",
+      "description": "Maintenir son efficacité et sa concentration dans des situations de pression, d’urgence ou de forte charge de travail.",
+      "anecdote": "Lors d’une présentation client, la panne d’un service backend a mis en péril notre projet. J’ai pris du recul pour identifier rapidement les priorités sans paniquer.",
+      "notation": "Très bonne résistance au stress. Capacité à garder le cap et prendre des décisions posées.",
+      "context": "Compétition de programmation avec des délais très serrés.",
+      "challenges": "Ne pas se laisser submerger par la pression et rester performant malgré la fatigue.",
+      "solutions": "Organisation claire, priorisation des tâches, gestion du temps et respiration pour garder une clarté mentale.",
+      "outcome": "Le projet a été finalisé dans les délais. L’équipe a souligné mon calme et ma capacité à recentrer le groupe.",
+      "media": [
+        "tableau_priorites.png",
+        "hackathon_nuit_travail.png"
+      ],
+      "type": "hum"
+    },
+    {
+      "id": "dwf",
+      "title": "Développement web fullstack",
+      "description": "Créer à la fois l’interface utilisateur et la logique serveur d’un site ou d’une application web.",
+      "anecdote": "J’ai codé une plateforme d’emploi en PHP (Laravel) avec Bootstrap, seul responsable du projet.",
+      "notation": "Bonne maîtrise du développement web de A à Z.",
+      "context": "Création d’une plateforme de mise en relation entre chercheurs d’emploi et recruteurs.",
+      "challenges": "Mettre en place une interface utilisateur fluide et intégrer une logique backend pour gérer les profils, annonces et candidatures.",
+      "solutions": "Utilisation de Laravel pour la gestion du backend et de Bootstrap pour le design responsive. Mise en place de l'authentification et des permissions utilisateur.",
+      "outcome": "La plateforme a été bien reçue par les utilisateurs, avec une augmentation de 30% des inscriptions en trois mois.",
+      "media": [
+        "interface_platforme_emploi.png",
+        "structure_laravel.png"
+      ],
+      "type": "tech",
+      "projects": [
+        "pion"
+      ]
+    },
+    {
+      "id": "adaptability",
+      "title": "Flexibilité et adaptation",
+      "description": "Savoir s’adapter rapidement aux changements d’environnement, de priorités ou d’outils, sans perdre en efficacité.",
+      "anecdote": "En alternance, un changement soudain de stack technique m’a obligé à apprendre un framework en trois jours pour respecter les délais.",
+      "notation": "Capacité d’adaptation très élevée. Facilité à apprendre et à intégrer rapidement de nouveaux outils ou méthodes.",
+      "context": "Projet professionnel avec changement d’environnement technique en cours de route.",
+      "challenges": "Être opérationnel rapidement sur un outil totalement nouveau.",
+      "solutions": "Formation express par tutoriels, mise en place d’un mini-projet test, échanges avec des collègues pour monter en compétence.",
+      "outcome": "Intégré au projet sans retard, j’ai même proposé des optimisations grâce à mon regard neuf.",
+      "media": [
+        "doc_framework.png",
+        "code_before_after_adaptation.png"
+      ],
+      "type": "hum"
+    },
+    {
+      "id": "as",
+      "title": "Administration système (Linux/Windows)",
+      "description": "Installer, sécuriser et maintenir des serveurs informatiques sur Linux ou Windows.",
+      "anecdote": "J’ai configuré Apache + SSL sur Ubuntu avec gestion des pare-feu et dépannage via logs.",
+      "notation": "Maîtrise fonctionnelle avec expérience concrète.",
+      "context": "Mise en place d’un serveur web pour une entreprise de taille moyenne.",
+      "challenges": "Assurer la sécurité des connexions et maintenir un serveur performant en production.",
+      "solutions": "Configuration d'Apache, SSL et pare-feu avec UFW, analyse de logs pour détecter les intrusions.",
+      "outcome": "Le serveur a été opérationnel pendant un an sans aucune intrusion. Les performances ont été améliorées de 20% grâce à l'optimisation.",
+      "media": [
+        "configuration_apache_ssl.png",
+        "log_analyse.png"
+      ],
+      "type": "tech",
+      "projects": [
+        "scriptor"
+      ]
+    },
+    {
+      "id": "efficiency",
+      "title": "Efficacité et orientation résultats",
+      "description": "Atteindre les objectifs avec rigueur, méthode et sens des priorités, tout en optimisant le temps et les ressources.",
+      "anecdote": "Dans un projet où les délais étaient réduits, j’ai identifié les fonctions essentielles à livrer d’abord, puis optimisé le code pour gagner en performance.",
+      "notation": "Excellente productivité et sens du résultat.",
+      "context": "Projet académique à réaliser en 5 jours, contre 10 initialement prévus.",
+      "challenges": "Réussir à livrer un produit viable et fonctionnel malgré une réduction importante du temps.",
+      "solutions": "Méthode MVP (Minimum Viable Product), focus sur l’essentiel, revue régulière des avancements.",
+      "outcome": "Projet livré avec succès. Le référant a été impressionné par la rapidité et la clarté des choix techniques.",
+      "media": [
+        "kanban_efficiency.png",
+        "mvp_demo_video.png"
+      ],
+      "type": "hum"
+    },
+    {
+      "id": "uml",
+      "title": "Modélisation UML et algorithmique",
+      "description": "Représenter visuellement les composants logiciels et concevoir des algorithmes performants.",
+      "anecdote": "J’ai conçu un système de réservation d’hôtel avec diagrammes UML et algorithmes de recherche multicritères.",
+      "notation": "Bonne compréhension avec application en projet réel.",
+      "context": "Création d’un système de réservation pour un projet académique de gestion hôtelière.",
+      "challenges": "Concevoir une solution permettant de gérer de multiples critères de recherche tout en optimisant les performances.",
+      "solutions": "Utilisation d'algorithmes de recherche multicritères et modélisation de l'architecture du système avec UML.",
+      "outcome": "Le système a permis de réduire de 40% le temps de recherche des utilisateurs.",
+      "media": [
+        "diagramme_uml_reservation.png",
+        "algorithme_recherche.png"
+      ],
+      "type": "tech",
+      "projects": [
+        "mpmt"
+      ]
+    },
+    {
+      "id": "leadership",
+      "title": "Leadership",
+      "description": "Capacité à guider, motiver et inspirer une équipe pour atteindre des objectifs communs, tout en favorisant un environnement de confiance.",
+      "anecdote": "Dans un projet de fin d’année, j’ai été désigné chef d’équipe. J’ai su répartir les rôles selon les forces de chacun et maintenir la motivation, même dans les périodes de doute.",
+      "notation": "Leadership naturel, capacité à fédérer et à faire avancer un groupe.",
+      "context": "Projet académique sur une durée limitée.",
+      "challenges": "Garder l’équipe motivée malgré les retards et les tensions sur les choix techniques.",
+      "solutions": "Encouragements réguliers, médiation lors de conflits, vision claire partagée avec le groupe.",
+      "outcome": "Projet livré à temps avec une équipe soudée. Plusieurs membres ont souligné mon rôle dans la réussite collective.",
+      "media": [
+        "planification_equipes.png",
+        "retrospective_projet.png"
+      ],
+      "type": "hum"
+    },
+    {
+      "id": "ads",
+      "title": "Audit de sécurité",
+      "description": "Analyse des systèmes pour identifier les failles, vulnérabilités et mauvaises configurations exploitables.",
+      "anecdote": "J’ai découvert une injection SQL et un XSS lors d’un audit d’application web simulée.",
+      "notation": "Bonne maîtrise avec des outils comme OWASP ZAP, Burp Suite, Nikto.",
+      "context": "Audit d'une application web dans le cadre d'un stage de sécurité.",
+      "challenges": "Identifier et exploiter les vulnérabilités dans un environnement complexe.",
+      "solutions": "Utilisation des outils d’audit pour scanner les applications et identifier les failles.",
+      "outcome": "Les vulnérabilités ont été corrigées, améliorant la sécurité de l’application de manière significative.",
+      "media": [
+        "rapport_audit.png",
+        "vulnerabilites_xss_sql.png"
+      ],
+      "type": "tech"
+    },
+    {
+      "id": "communication",
+      "title": "Communication",
+      "description": "Exprimer clairement ses idées, écouter activement et s’adapter à son interlocuteur pour assurer une bonne compréhension dans les échanges.",
+      "anecdote": "J’ai dû expliquer à un client non-technique pourquoi un changement de dernière minute n’était pas réaliste. Grâce à une communication simple et imagée, il a compris les enjeux techniques.",
+      "notation": "Communication claire et structurée, aussi bien à l’oral qu’à l’écrit.",
+      "context": "Projet freelance avec un client sans bagage technique.",
+      "challenges": "Faire passer un message technique de manière accessible et convaincante.",
+      "solutions": "Utilisation de schémas, métaphores, et documentation vulgarisée.",
+      "outcome": "Le client a validé la proposition alternative sans résistance. Cela a permis de garder une bonne relation de confiance.",
+      "media": [
+        "schema_client_tech.png",
+        "email_explicatif.png"
+      ],
+      "type": "hum"
+    },
+    {
+      "id": "cloud",
+      "title": "Cloud computing (AWS, Azure, GCP)",
+      "description": "Le cloud permet de déployer et gérer des ressources informatiques sans infrastructure physique, en mode scalable.",
+      "anecdote": "J’ai déployé une API REST sur AWS avec automatisation via GitHub Actions.",
+      "notation": "Bonne autonomie sur les services de base AWS et automatisation.",
+      "context": "Déploiement d’une API pour un service web sur AWS.",
+      "challenges": "Automatiser le déploiement pour garantir une mise à jour rapide et sécurisée de l'API.",
+      "solutions": "Utilisation de GitHub Actions pour automatiser le déploiement et AWS pour l’hébergement.",
+      "outcome": "Le déploiement automatisé a réduit les erreurs humaines et accéléré les mises à jour de l’API.",
+      "media": [
+        "aws_architecture.png",
+        "github_actions_deploiement.png"
+      ],
+      "type": "tech"
+    },
+    {
+      "id": "autonomy",
+      "title": "Autonomie",
+      "description": "Travailler de manière indépendante, organiser son temps et prendre des initiatives sans dépendre constamment d'une supervision.",
+      "anecdote": "Lors de mon alternance, mon superviseur a été absent deux semaines. J’ai continué à faire avancer le projet seul, en prenant des décisions éclairées et en documentant mes choix.",
+      "notation": "Très bon niveau d’autonomie. Capable d'avancer seul tout en sachant quand demander de l’aide.",
+      "context": "Stage de développement web dans une startup.",
+      "challenges": "Poursuivre le projet sans directives précises en l’absence du mentor.",
+      "solutions": "Relecture des objectifs, documentation des décisions, validation en différé via e-mail.",
+      "outcome": "Mon initiative a été saluée, et les résultats ont été intégrés directement dans le produit final.",
+      "media": [
+        "planning_personnel.png",
+        "log_choix_techniques.png"
+      ],
+      "type": "hum"
+    },
+    {
+      "id": "lsa",
+      "title": "Linux system administration",
+      "description": "Configurer, sécuriser, surveiller et maintenir un système Linux (Ubuntu, Debian…).",
+      "anecdote": "J’ai installé un serveur mail sécurisé avec Postfix + Dovecot et Let’s Encrypt.",
+      "notation": "Très bonne maîtrise. À l’aise en administration Linux serveur.",
+      "context": "Installation d’un serveur de messagerie sécurisé pour une petite entreprise.",
+      "challenges": "Assurer la sécurité et la confidentialité des échanges de mails tout en permettant une gestion fluide.",
+      "solutions": "Configuration de Postfix, Dovecot, et mise en place de certificats SSL via Let's Encrypt.",
+      "outcome": "Le serveur fonctionne sans interruption depuis sa mise en place, et la sécurité des échanges est garantie.",
+      "media": [
+        "server_mail_config.png",
+        "ssl_certificates.png"
+      ],
+      "type": "tech",
+      "projects": [
+        "ollamachatui",
+        "scriptor"
+      ]
+    },
+    {
+      "id": "curiosity",
+      "title": "Curiosité intellectuelle",
+      "description": "Désir d’apprendre continuellement, de comprendre les choses en profondeur, et de rester à jour avec les nouveautés du domaine.",
+      "anecdote": "Je consacre du temps chaque semaine à expérimenter de nouvelles technologies (par exemple : j’ai découvert GraphQL et ai créé une mini API pour tester).",
+      "notation": "Curiosité active, toujours à la recherche de nouvelles idées ou techniques.",
+      "context": "Autoformation et projets personnels en parallèle de mes études.",
+      "challenges": "Allier veille technologique avec les autres obligations (cours, stages, etc.).",
+      "solutions": "Routine hebdomadaire de veille, projets courts de prototypage personnel.",
+      "outcome": "Mon ouverture aux nouveautés m’a permis de proposer des solutions modernes dans mes projets (ex. : remplacer REST par GraphQL dans un projet en équipe).",
+      "media": [
+        "projet_graphql_perso.png",
+        "veille_tech_tableau.png"
+      ],
+      "type": "hum"
+    },
+    {
+      "id": "dso",
+      "title": "DevSecOps",
+      "description": "Intégration des pratiques de sécurité dans les processus DevOps (automatisation + sécurité).",
+      "anecdote": "J’ai intégré Snyk et des règles de sécurité sur les branches Git pour bloquer les dépendances vulnérables.",
+      "notation": "Bonne intégration dans des processus CI/CD existants.",
+      "context": "Automatisation du processus de CI/CD pour un projet de développement logiciel.",
+      "challenges": "Garantir la sécurité des dépendances et des applications dans un flux CI/CD automatisé.",
+      "solutions": "Intégration de Snyk pour scanner les dépendances à chaque commit et bloquer les vulnérabilités.",
+      "outcome": "Le processus DevSecOps a permis de réduire de 50% les risques liés aux vulnérabilités de dépendances.",
+      "media": [
+        "snyk_integration.png",
+        "git_security_rules.png"
+      ],
+      "type": "tech",
+      "projects": [
+        "mpmt"
+      ]
+    },
+    {
+      "id": "critical_thinking",
+      "title": "Esprit critique",
+      "description": "Analyser les situations ou les informations avec discernement, remettre en question les choix techniques ou organisationnels pour trouver la meilleure solution.",
+      "anecdote": "Un membre de l’équipe voulait utiliser un framework très tendance. J’ai pris le temps d’analyser les besoins réels du projet avant de démontrer que ce choix était inadapté.",
+      "notation": "Bon recul, capable de proposer des alternatives argumentées.",
+      "context": "Projet en équipe dans un contexte d’innovation rapide.",
+      "challenges": "Savoir dire non de manière constructive sans créer de tensions.",
+      "solutions": "Analyse comparative des options, présentation objective avec données à l’appui.",
+      "outcome": "Choix technique ajusté, équipe satisfaite. Le projet a gagné en stabilité et en clarté.",
+      "media": [
+        "comparatif_frameworks.png",
+        "presentation_alternative.png"
+      ],
+      "type": "hum"
+    },
+    {
+      "id": "rgpd",
+      "title": "Conformité RGPD",
+      "description": "Respect des lois sur les données personnelles (droit à l’oubli, consentement, sécurité des données).",
+      "anecdote": "J’ai rédigé la documentation RGPD d’un projet web étudiant et proposé des solutions techniques (anonymisation, logs, consentement).",
+      "notation": "Bonne compréhension et application dans les projets.",
+      "context": "Mise en conformité d’un projet web pour le respect des lois RGPD.",
+      "challenges": "Assurer la collecte et le stockage des données utilisateurs tout en respectant le droit à l’oubli et le consentement.",
+      "solutions": "Mise en place de processus d’anonymisation des données, journalisation des actions utilisateurs, et gestion des consentements.",
+      "outcome": "La conformité RGPD a été validée par un expert, ce qui a renforcé la confiance des utilisateurs dans le service.",
+      "media": [
+        "rgpd_compliance.png",
+        "consentement_formulaire.png"
+      ],
+      "type": "tech"
+    },
+    {
+      "id": "cicd",
+      "title": "CI/CD (Intégration et déploiement continus)",
+      "description": "Le CI/CD permet d’automatiser les tests, la compilation, et le déploiement d’une application pour améliorer la qualité et la rapidité de livraison.",
+      "anecdote": "J’ai configuré GitHub Actions pour automatiser les tests et le déploiement d’un projet web sur serveur distant.",
+      "notation": "Maîtrise confirmée avec GitHub Actions, GitLab CI et déploiement sécurisé.",
+      "context": "Automatisation du processus CI/CD pour un projet de développement web.",
+      "challenges": "Garantir la qualité du code tout en assurant des déploiements rapides et sûrs.",
+      "solutions": "Utilisation de GitHub Actions pour les tests automatiques et le déploiement continu.",
+      "outcome": "Le processus CI/CD a permis une réduction de 70% des erreurs en production et une augmentation de la vitesse de livraison.",
+      "media": [
+        "github_actions_pipeline.png",
+        "cicd_workflow.png"
+      ],
+      "type": "tech",
+      "projects": [
+        "mpmt",
+        "dolibarr"
+      ]
+    },
+    {
+      "id": "do",
+      "title": "DevOps",
+      "description": "Le DevOps fusionne développement et opérations pour améliorer la collaboration, l’automatisation, et la livraison continue des projets.",
+      "anecdote": "J’ai containerisé une application Node.js avec Docker et automatisé le déploiement avec Docker Compose.",
+      "notation": "Bonne maîtrise. À l’aise avec Docker, Git, Bash, environnements virtualisés.",
+      "context": "Mise en place d’une architecture DevOps pour une application Node.js.",
+      "challenges": "Créer un environnement de développement et de production cohérent et automatisé.",
+      "solutions": "Utilisation de Docker et Docker Compose pour gérer les containers et simplifier le déploiement.",
+      "outcome": "L’application a été déployée sans faille et avec une grande cohérence entre les environnements de développement et de production.",
+      "media": [
+        "docker_compose_architecture.png",
+        "docker_nodejs_app.png"
+      ],
+      "type": "tech",
+      "projects": [
+        "mpmt"
+      ]
+    },
+    {
+      "id": "tdo",
+      "title": "TDD (Test-Driven Development)",
+      "description": "Le TDD consiste à écrire les tests avant le code, garantissant que chaque fonctionnalité est testée et conforme aux besoins.",
+      "anecdote": "J’ai appliqué le TDD pour construire un moteur de règles métier Java, avec une couverture de test presque complète dès la première itération.",
+      "notation": "Maîtrise en contexte projet, notamment backend.",
+      "context": "Développement d’un moteur de règles métier pour un projet de gestion d'entreprise.",
+      "challenges": "Garantir la robustesse du moteur tout en respectant les règles métier complexes.",
+      "solutions": "Application du TDD pour assurer une couverture de test exhaustive dès le début du projet.",
+      "outcome": "Le projet a été livré avec une couverture de tests de 95%, garantissant la stabilité du moteur.",
+      "media": [
+        "tdd_junit_tests.png",
+        "moteur_regles_menaje.png"
+      ],
+      "type": "tech",
+      "projects": [
+        "dolibarr"
+      ]
+    },
+    {
+      "id": "al",
+      "title": "Architecture logicielle",
+      "description": "L’architecture logicielle définit la structure d’un logiciel pour le rendre maintenable, scalable et modulaire.",
+      "anecdote": "J’ai proposé une architecture hexagonale sur le projet School Manager pour séparer logique métier et accès aux données.",
+      "notation": "Très bonne maîtrise. Capable de concevoir des architectures adaptées et documentées.",
+      "context": "Conception d'une architecture logicielle pour un projet de gestion scolaire.",
+      "challenges": "Séparer la logique métier du système de gestion des données tout en permettant une extensibilité du projet.",
+      "solutions": "Utilisation du pattern hexagonal pour rendre le système plus flexible et évolutif.",
+      "outcome": "L’architecture a permis une meilleure évolutivité et facilité d'ajout de nouvelles fonctionnalités.",
+      "media": [
+        "architecture_hexagonale_school.png",
+        "diagramme_architecture_logicielle.png"
+      ],
+      "type": "tech",
+      "projects": [
+        "mpmt"
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "degree": "Mastère Expert en Ingénierie Logicielle ",
+      "institution": "ISCOD",
+      "start": "2023",
+      "end": "2025",
+      "details": [
+        "Formation spécialisée dans la conception, le développement et l’architecture de systèmes logiciels complexes. Ce mastère m’a permis de maîtriser l’ensemble du cycle de vie logiciel, avec un fort accent sur la qualité, la sécurité et l’automatisation des processus de développement.",
+        "J’y ai consolidé mes compétences en architecture logicielle moderne (microservices, DDD), en DevOps, ainsi qu’en gestion de projets techniques. Les nombreux projets collectifs et études de cas m'ont permis d'évoluer dans des environnements proches du monde professionnel, avec une exigence de rigueur, de documentation et d’innovation constante.",
+        "🔧 Compétences acquises ",
+        "Conception et mise en œuvre d’architectures logicielles robustes et modulaires ",
+        "Développement fullstack : Java, Python, Angular, React, Node.js ",
+        "Méthodologies agiles : Scrum, Kanban, gestion de backlog, user stories ",
+        "Mise en place de pipelines CI/CD (GitHub Actions, GitLab, Docker) ",
+        "Tests unitaires, intégration, validation continue (TDD, BDD) ",
+        "Sécurisation d’applications (OWASP, audit de code, bonnes pratiques DevSecOps) ",
+        "Veille technologique, documentation technique, gestion de projet en équipe"
+      ]
+    },
+    {
+      "degree": "Mastère Cybersécurité et cloud",
+      "institution": "EFREI",
+      "start": "2022",
+      "end": "2023",
+      "details": [
+        "Formation axée sur la sécurité des systèmes d'information, l’administration des environnements cloud, et la mise en œuvre de stratégies de défense avancées. Ce mastère m’a permis de développer une vision globale des enjeux de la cybersécurité moderne, en lien avec les infrastructures virtualisées, les architectures distribuées et les pratiques DevSecOps.",
+        "Les projets pratiques et études de cas m'ont confronté à des scénarios concrets : audit de sécurité, gestion des incidents, configuration sécurisée des systèmes, déploiement d'infrastructures cloud résilientes.",
+        "🛡️ Compétences acquises",
+        "Analyse de risques et mise en œuvre de politiques de sécurité (PSSI, ISO 27001) ",
+        "Audit de sécurité, tests d’intrusion, forensic & gestion d’incidents ",
+        "Sécurisation des applications et infrastructures (pare-feu, VPN, chiffrement, IAM) ",
+        "Administration de systèmes Linux/Windows en environnement sécurisé ",
+        "Déploiement cloud (AWS, Azure, GCP), virtualisation (VMware, Docker) ",
+        "Automatisation et sécurité des CI/CD pipelines (DevSecOps) ",
+        "Mise en place d’environnements sandbox pour analyse de malwares ",
+        "Conformité RGPD, cybersécurité légale et réglementaire"
+      ]
+    },
+    {
+      "degree": "Master Sciences Informatiques",
+      "institution": "ESIH",
+      "start": "2017",
+      "end": "2021",
+      "details": [
+        "Ce master m’a permis d’acquérir une solide base scientifique et technique en informatique, avec une orientation polyvalente couvrant les domaines du développement logiciel, des bases de données, des réseaux et de l’administration système.",
+        "Au fil de la formation, j’ai renforcé ma capacité à concevoir des solutions logicielles robustes, à comprendre l’architecture des systèmes d’exploitation, et à travailler en équipe sur des projets concrets en lien avec les besoins réels du terrain.",
+        "🧠 Compétences acquises",
+        "Programmation orientée objet (Java, C++, Python) et procédurale",
+        "Conception et modélisation de bases de données relationnelles (MySQL, PostgreSQL)",
+        "Développement web fullstack (HTML/CSS, JavaScript, PHP, Laravel)",
+        "Systèmes d’exploitation : administration Linux/Windows",
+        "Réseaux informatiques et protocoles TCP/IP",
+        "Analyse et conception UML, structures de données, algorithmes",
+        "Travail en équipe, gestion de projets académiques, documentation technique"
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Ingénieur logiciel",
+      "company": "Alpiasoft",
+      "start": "2023",
+      "end": "2025",
+      "description": "Développement de fonctionnalités dédiées aux organismes de formation, adaptées aux besoins métiers. Création de solutions multiplateformes sur iOS et Android",
+      "details": [
+        "Refonte complète de l’interface utilisateur pour améliorer l’expérience des professionnels de santé, en repensant la structure des pages, la hiérarchisation des informations et la fluidité de la navigation afin d’optimiser leur efficacité au quotidien.",
+        "Développement et mise en place d’un design system basé sur Angular Material ou un autre framework UI, garantissant une cohérence visuelle et fonctionnelle à travers l’ensemble de l’application, tout en facilitant la maintenance et l’évolution du produit.",
+        "Amélioration significative de l’accessibilité, en appliquant les normes WCAG pour assurer une utilisation optimale du logiciel par tous les utilisateurs, y compris les personnes en situation de handicap (gestion des contrastes, navigation clavier, compatibilité avec les lecteurs d’écran).",
+        "Optimisation des performances de l’interface, en réduisant les temps de chargement et en intégrant des animations fluides et responsives pour une expérience utilisateur moderne et agréable."
+      ]
+    },
+    {
+      "title": "Ingénieur Full Stack",
+      "company": "Evolucare",
+      "start": "2021",
+      "end": "2023",
+      "description": "Participation à l'évolution d'un logiciel avancé pour l'administration hospitalière. Responsable de la conception et de l'implémentation de nouvelles fonctionnalités (UI/UX), avec Angular.",
+      "details": [
+        "Implémentation de modules spécifiques adaptés aux besoins du secteur hospitalier, tels que la gestion des patients, la prise de rendez-vous et le suivi médical. Ces fonctionnalités ont été conçues pour offrir une solution complète et cohérente, permettant aux professionnels de santé de gérer efficacement leurs tâches administratives et cliniques.",
+        "Développement d’un tableau de bord interactif, intégrant des graphiques dynamiques et des indicateurs clés pour fournir aux utilisateurs une vision claire et immédiate de l’état des opérations (nombre de patients, taux de remplissage des rendez-vous, suivi des traitements…). Ce tableau de bord a été conçu pour aider à la prise de décision en temps réel et améliorer la réactivité du personnel médical.",
+        "Ajout de filtres avancés et d’un moteur de recherche performant, permettant aux utilisateurs d’accéder rapidement et facilement aux données essentielles. Ces outils ont été optimisés pour améliorer l’efficience et réduire le temps consacré à la recherche d’informations, tout en permettant une navigation fluide et rapide dans des volumes de données importants."
+      ]
+    },
+    {
+      "title": "Développeur Full Stack",
+      "company": "Azteck",
+      "start": "2018",
+      "end": "2021",
+      "description": "Création de sites web et d'applications mobiles sur mesure pour des clients variés tels que des restaurants, pharmacies, écoles et hôpitaux.",
+      "details": [
+        "Conception et développement de sites vitrines et e-commerce optimisés pour le SEO et compatibles mobile (responsive design), en utilisant React, Vue.js ou Angular côté front-end et Node.js/Express ou Laravel côté back-end.",
+        "Développement d'applications mobiles hybrides avec React Native et Flutter, offrant des fonctionnalités spécifiques aux besoins métiers de chaque client (prise de rendez-vous, gestion de stock, menus interactifs, systèmes de notifications, etc.).",
+        "Mise en place d’API REST sécurisées et de bases de données relationnelles (PostgreSQL, MySQL) ou NoSQL (MongoDB), selon les besoins du projet.",
+        "Accompagnement des clients dans la définition de leurs besoins fonctionnels et techniques, avec réalisation de maquettes interactives (Figma) et déploiement continu sur des plateformes cloud comme Firebase, Vercel ou AWS."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "ollamachatui",
+      "title": "Interface de dialogue locale – OllamaChatUI",
+      "description": "Ce projet est une interface web pour interagir avec des modèles de langage hébergés localement.",
+      "image": "https://github.com/Dupy007/ollamachatui/blob/master/.images/screen.png?raw=true",
+      "link": "https://github.com/Dupy007/ollamachatui",
+      "article": {
+        "intro": {
+          "regard_critique": "Avec OllamaChatUI, j’ai eu l’opportunité d’aller au cœur des technologies d’IA générative en local. Ce projet m’a permis de prendre conscience de l’enjeu croissant autour de la souveraineté des données et de la performance des modèles open source. J’ai particulièrement apprécié le défi de concevoir une interface ergonomique tout en optimisant la fluidité des échanges avec les LLM hébergés localement. Ce projet m’a aussi permis de valoriser mes compétences en architecture logicielle, en programmation orientée objet (POO) et en intégration de modèles LLM locaux. Une vraie passerelle vers l'IA auto-hébergée."
+        },
+        "presentation": {
+          "definition": "OllamaChatUI est une interface web intuitive permettant de dialoguer avec des modèles de langage (LLM) hébergés localement. Conçue pour fonctionner avec Ollama, cette application web vise à rendre l’utilisation des modèles LLM plus accessible, tout en garantissant confidentialité et autonomie.",
+          "lien_github": "https://github.com/Dupy007/ollamachatui"
+        },
+        "contexte_objectifs": {
+          "objectif": "Fournir une interface simple, épurée et fonctionnelle pour interagir avec des modèles de langage open source sans dépendance au cloud.",
+          "contexte": "Dans un monde où les modèles hébergés à distance soulèvent des questions éthiques et de confidentialité, ce projet s’inscrit dans une volonté de proposer des alternatives locales.",
+          "enjeux": "Compatibilité multi-modèles, légèreté de l’interface, performances de réponse en temps réel.",
+          "risques": "Gestion des ressources locales, optimisation des temps de réponse, interopérabilité avec Ollama."
+        },
+        "etapes_realisation": [
+          "Mise en place du backend de communication avec Ollama.",
+          "Conception de l’UI avec un framework moderne (HTML/CSS/JS).",
+          "Intégration des appels API vers les modèles LLM locaux.",
+          "Tests fonctionnels et ergonomiques sur différentes configurations.",
+          "Déploiement local et rédaction de la documentation d’usage."
+        ],
+        "acteurs": [
+          "Développement personnel en autonomie.",
+          "Utilisateurs finaux testeurs pour retours sur l’UX.",
+          "Interaction avec la communauté open source d’Ollama pour résoudre certaines limitations techniques."
+        ],
+        "resultats": {
+          "pour_moi": "Approfondissement de l’architecture web locale et des interfaces IA.",
+          "pour_les_utilisateurs": "Interface fluide, facile d’accès et utile pour les tests de modèles locaux.",
+          "generaux": "Base modulaire pour des futures extensions ou intégrations multi-agents."
+        },
+        "lendemains": {
+          "court_terme": "Ajout de filtres conversationnels avancés.",
+          "moyen_terme": "Support mobile et gestion des sessions utilisateur.",
+          "long_terme": "Prise en charge de modèles multimodaux (texte + image, audio)."
+        }
+      },
+      "skills": [
+        "poo",
+        "lsa"
+      ]
+    },
+    {
+      "id": "mpmt",
+      "title": "Plateforme collaborative de gestion de projets – MPMT",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b",
+      "description": "MPMT est une plateforme de gestion de projet collaboratif destinée aux équipes de développement logiciel. L'objectif est de créer une application qui permettra aux équipes de planifier, suivre et collaborer sur des projets de manière efficace.",
+      "link": "https://github.com/Dupy007/MPMT",
+      "article": {
+        "intro": {
+          "regard_critique": "Le projet MPMT m’a permis de mieux comprendre les enjeux organisationnels d’un développement logiciel en équipe. J’ai apporté une vision technique structurante, tout en améliorant mes compétences en modélisation, en DevOps et en communication collaborative. Ce projet a été fondamental pour développer ma capacité à penser produit et utilisateurs en même temps."
+        },
+        "presentation": {
+          "definition": "MPMT est une plateforme de gestion de projet collaboratif destinée aux équipes de développement logiciel. Elle permet de planifier, suivre et collaborer efficacement sur les différentes phases d’un projet.",
+          "lien_github": "https://github.com/Dupy007/MPMT"
+        },
+        "contexte_objectifs": {
+          "objectif": "Créer une application robuste et collaborative pour la gestion agile de projets.",
+          "contexte": "Dans le cadre de la montée en compétence en gestion de projet logiciel.",
+          "enjeux": "Gestion des tâches, droits utilisateurs, traçabilité des actions.",
+          "risques": "Complexité fonctionnelle, stabilité en multi-utilisateur, respect des deadlines."
+        },
+        "etapes_realisation": [
+          "Rédaction du cahier des charges et modélisation UML.",
+          "Développement des fonctionnalités de base : création de projets, gestion des tâches, notifications.",
+          "Mise en place de pipelines CI/CD pour les déploiements.",
+          "Test de l’application dans des environnements simulés avec plusieurs utilisateurs."
+        ],
+        "acteurs": [
+          "Collaboration avec une équipe de développeurs (3 personnes).",
+          "Utilisation d’outils de suivi collaboratif comme Git, Trello, GitHub Projects."
+        ],
+        "resultats": {
+          "pour_moi": "Renforcement de mes compétences DevOps et gestion collaborative.",
+          "pour_les_utilisateurs": "Plateforme fonctionnelle testée par des groupes pilotes.",
+          "generaux": "Base réutilisable pour des futurs outils personnalisés de gestion agile."
+        },
+        "lendemains": {
+          "court_terme": "Optimisations de l’interface et des performances.",
+          "moyen_terme": "Ajout de modules de reporting et tableaux de bord.",
+          "long_terme": "Possibilité d’ouvrir le service à d’autres équipes ou projets open source."
+        }
+      },
+      "skills": [
+        "poo",
+        "al",
+        "do",
+        "cicd",
+        "dso",
+        "uml"
+      ]
+    },
+    {
+      "id": "scriptor",
+      "title": "Automatisation d’environnement Linux – Scriptor",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5",
+      "description": "Ce script Bash installe un ensemble complet d'outils et de services pour préparer un environnement de développement ou production sur une distribution Debian/Ubuntu",
+      "link": "https://github.com/Dupy007/scriptor",
+      "article": {
+        "intro": {
+          "regard_critique": "Scriptor est un projet très formateur sur la robustesse et l’optimisation des scripts shell. J’ai renforcé ma compréhension des distributions Linux tout en structurant un script utile, réutilisable et adaptable dans des environnements variés."
+        },
+        "presentation": {
+          "definition": "Scriptor est un script Bash permettant d’installer rapidement un ensemble complet d’outils de développement ou de production sur une base Debian/Ubuntu.",
+          "lien_github": "https://github.com/Dupy007/scriptor"
+        },
+        "contexte_objectifs": {
+          "objectif": "Automatiser l’installation de stacks techniques récurrentes.",
+          "contexte": "Projet personnel pour gagner du temps sur la configuration de mes machines.",
+          "enjeux": "Compatibilité système, robustesse, maintenabilité.",
+          "risques": "Casses système potentielles, versions obsolètes, dépendances manquantes."
+        },
+        "etapes_realisation": [
+          "Écriture du script Bash structuré et commenté.",
+          "Ajout de conditions pour différents OS et versions.",
+          "Tests sur plusieurs VM et serveurs distants.",
+          "Ajout d’un fichier de log pour le debug."
+        ],
+        "acteurs": [
+          "Projet solo, mais basé sur des ressources communautaires et documentations officielles."
+        ],
+        "resultats": {
+          "pour_moi": "Montée en compétence sur l'automatisation et la gestion système.",
+          "pour_les_utilisateurs": "Gain de temps significatif sur la configuration initiale.",
+          "generaux": "Script adaptable à différents cas (développement web, back-end, sécurité)."
+        },
+        "lendemains": {
+          "court_terme": "Ajout d’un menu interactif.",
+          "moyen_terme": "Support de distributions comme Arch ou CentOS.",
+          "long_terme": "Transformation en petit utilitaire CLI open source avec versionning."
+        }
+      },
+      "skills": [
+        "lsa",
+        "as"
+      ]
+    },
+    {
+      "id": "dolibarr",
+      "title": "Contributions ERP Open Source – Dolibarr",
+      "description": "Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.",
+      "image": "https://camo.githubusercontent.com/9359f5045f3cf3298b77bc0eb80d4842de934d682e4141cbc7ba1fb779d74c22/68747470733a2f2f7777772e646f6c69626172722e6f72672f6d65646961732f646f6c69626172725f73637265656e73686f74315f3139323078313038302e6a7067",
+      "link": "https://github.com/Dupy007/dolibarr",
+      "article": {
+        "intro": {
+          "regard_critique": "Participer à un projet open source comme Dolibarr m’a confronté à des standards de qualité exigeants. J’ai appris à m’intégrer dans une grande base de code tout en comprenant les problématiques métier liées à la gestion d’entreprise. Mon implication a renforcé ma rigueur et ma capacité à contribuer de manière pertinente à un outil largement utilisé."
+        },
+        "presentation": {
+          "definition": "Dolibarr est un ERP/CRM open source destiné à la gestion complète d’une entreprise : clients, factures, stocks, comptabilité, etc.",
+          "lien_github": "https://github.com/Dupy007/dolibarr"
+        },
+        "contexte_objectifs": {
+          "objectif": "Contribuer à un ERP existant avec des correctifs et des ajouts de fonctionnalités.",
+          "contexte": "Contributions individuelles dans le cadre d’une exploration des ERP open source.",
+          "enjeux": "Respect des standards du projet, compréhension de l’architecture existante.",
+          "risques": "Risque de régression, complexité fonctionnelle forte."
+        },
+        "etapes_realisation": [
+          "Lecture de la documentation développeur de Dolibarr.",
+          "Correction de bugs mineurs et amélioration UX de certains modules.",
+          "Interaction sur les forums et issues GitHub avec la communauté."
+        ],
+        "acteurs": [
+          "Contributeurs open source.",
+          "Équipes de mainteneurs Dolibarr pour validation des contributions."
+        ],
+        "resultats": {
+          "pour_moi": "Apprentissage des workflows open source à grande échelle.",
+          "pour_les_utilisateurs": "Petites améliorations validées et intégrées.",
+          "generaux": "Expérience concrète dans le monde des ERP."
+        },
+        "lendemains": {
+          "court_terme": "Poursuite de petites contributions régulières.",
+          "moyen_terme": "Création d’un module plugin dédié à un besoin spécifique (ex : facturation personnalisée)."
+        }
+      },
+      "skills": [
+        "poo",
+        "dwf",
+        "db",
+        "cicd",
+        "tdo"
+      ]
+    },
+    {
+      "id": "pion",
+      "title": "Jeu interactif – Pion en cage",
+      "image": "https://github.com/Dupy007/JS2_exercice_pionEnCage2_enonce/blob/main/maquette_encours.png?raw=true",
+      "link": "https://github.com/Dupy007/JS2_exercice_pionEnCage2_enonce",
+      "description": "Un jeu de pion en cage ",
+      "article": {
+        "intro": {
+          "regard_critique": "Ce mini-jeu m’a permis d’expérimenter la logique de déplacement sur grille et la dynamique de jeu. Il a été une bonne opportunité pour renforcer mes compétences en développement frontend tout en créant une interface simple et engageante."
+        },
+        "presentation": {
+          "definition": "Pion en cage est un jeu de déplacement dans une grille, où le joueur doit sortir un pion prisonnier d’une zone définie.",
+          "lien_github": "https://github.com/Dupy007/JS2_exercice_pionEnCage2_enonce"
+        },
+        "contexte_objectifs": {
+          "objectif": "Créer un jeu simple basé sur des règles de déplacement logiques.",
+          "contexte": "Exercice personnel d'entraînement au JavaScript et à l’algorithme d’interface.",
+          "enjeux": "Simplicité, feedback immédiat, adaptabilité de la logique.",
+          "risques": "Mauvaise lisibilité du jeu, bugs de déplacement."
+        },
+        "etapes_realisation": [
+          "Définition des règles du jeu et conception de la grille.",
+          "Développement des contrôles clavier et feedback visuel.",
+          "Ajout de la détection de fin de partie.",
+          "Tests utilisateur pour vérifier la jouabilité."
+        ],
+        "acteurs": [
+          "Développement individuel avec retours de proches."
+        ],
+        "resultats": {
+          "pour_moi": "Renforcement du JavaScript et de la gestion DOM.",
+          "pour_les_utilisateurs": "Mini-jeu accessible depuis un simple navigateur.",
+          "generaux": "Projet léger et présentable pour démontrer mes compétences en JS/UX."
+        },
+        "lendemains": {
+          "court_terme": "Ajout de niveaux ou de défis supplémentaires.",
+          "moyen_terme": "Amélioration visuelle avec CSS ou Canvas."
+        }
+      },
+      "skills": [
+        "dwf"
+      ]
+    }
+  ],
+  "linkedin": "https://www.linkedin.com/in/jfd-1b87951b4/",
+  "github": "https://github.com/Dupy007"
+}
